@@ -1,0 +1,16 @@
+{
+  "name": "study/design",
+  "description": "study by design pattern",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Victor",
+      "email": "victo2004franco@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Study\\Design\\": "src/"
+    }
+  }
+}
